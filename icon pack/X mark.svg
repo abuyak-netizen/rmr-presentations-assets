@@ -1,0 +1,28 @@
+<svg width="364" height="364" viewBox="0 0 364 364" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="84" y="308" width="56" height="28" fill="black"/>
+<rect x="140" y="336" width="84" height="28" fill="black"/>
+<rect x="168" y="168" width="28" height="28" fill="black"/>
+<rect x="140" y="140" width="28" height="28" fill="black"/>
+<rect x="112" y="112" width="28" height="28" fill="black"/>
+<rect x="196" y="140" width="28" height="28" fill="black"/>
+<rect x="224" y="112" width="28" height="28" fill="black"/>
+<rect x="224" y="224" width="28" height="28" transform="rotate(180 224 224)" fill="black"/>
+<rect x="252" y="252" width="28" height="28" transform="rotate(180 252 252)" fill="black"/>
+<rect x="168" y="224" width="28" height="28" transform="rotate(180 168 224)" fill="black"/>
+<rect x="140" y="252" width="28" height="28" transform="rotate(180 140 252)" fill="black"/>
+<rect width="56" height="28" transform="matrix(1 0 0 -1 84 56)" fill="black"/>
+<rect width="84" height="28" transform="matrix(1 0 0 -1 140 28)" fill="black"/>
+<rect y="140" width="28" height="84" fill="black"/>
+<rect width="28" height="84" transform="matrix(-1 0 0 1 364 140)" fill="black"/>
+<rect x="28" y="224" width="28" height="28" fill="black"/>
+<rect x="28" y="252" width="28" height="28" fill="black"/>
+<rect width="28" height="56" transform="matrix(-1 0 0 1 336 224)" fill="black"/>
+<rect x="56" y="280" width="28" height="28" fill="black"/>
+<rect width="28" height="28" transform="matrix(-1 0 0 1 308 280)" fill="black"/>
+<rect width="56" height="28" transform="matrix(-1 0 0 1 280 308)" fill="black"/>
+<rect width="28" height="56" transform="matrix(1 0 0 -1 28 140)" fill="black"/>
+<rect x="336" y="140" width="28" height="56" transform="rotate(180 336 140)" fill="black"/>
+<rect width="28" height="28" transform="matrix(1 0 0 -1 56 84)" fill="black"/>
+<rect x="308" y="84" width="28" height="28" transform="rotate(180 308 84)" fill="black"/>
+<rect x="280" y="56" width="56" height="28" transform="rotate(180 280 56)" fill="black"/>
+</svg>
